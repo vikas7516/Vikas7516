@@ -204,27 +204,31 @@
 
 ---
 
+
+
 ## 🎨 Development Workflow
 
 <div align="center">
 
-**My Development Process**
+<strong>My Development Process</strong><br/><br/>
 
-💡 Idea Generation
-↓
-🔍 Research & Planning
-↓
-⚡ Rapid Prototyping
-↓
-🔨 Build & Iterate
-↓
-🧪 Test & Debug
-↓
-🚀 Deploy & Ship
-↓
-📝 Document & Share
-↓
+💡 Idea Generation<br/>
+↓<br/>
+🔍 Research & Planning<br/>
+↓<br/>
+⚡ Rapid Prototyping<br/>
+↓<br/>
+🔨 Build & Iterate<br/>
+↓<br/>
+🧪 Test & Debug<br/>
+↓<br/>
+🚀 Deploy & Ship<br/>
+↓<br/>
+📝 Document & Share<br/>
+↓<br/>
 🔄 Gather Feedback & Improve
+
+</div>
 
 
 **Core Principles:**
@@ -291,13 +295,16 @@
 <div align="center">
 
 **Daily Coding Loop:**
-`while (learning) {
+```javascript
+
+while (learning) {
   code();
   break_things();
   fix_them();
   document();
   repeat();
-}`
+}
+```
 
 
 
