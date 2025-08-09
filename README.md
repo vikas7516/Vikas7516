@@ -6,30 +6,31 @@
 
 <!-- Floating Particles Animation -->
 <div align="center">
-<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" style="position: absolute; z-index: -1;">
-  <defs>
-    <style>
-      .particle { animation: float 6s ease-in-out infinite; opacity: 0.6; }
-      .particle1 { animation-delay: 0s; }
-      .particle2 { animation-delay: -2s; }
-      .particle3 { animation-delay: -4s; }
-      .particle4 { animation-delay: -1s; }
-      .particle5 { animation-delay: -3s; }
-      .particle6 { animation-delay: -5s; }
-      @keyframes float {
-        0%, 100% { transform: translateY(0px) translateX(0px); opacity: 0.6; }
-        25% { transform: translateY(-20px) translateX(10px); opacity: 1; }
-        50% { transform: translateY(-40px) translateX(-10px); opacity: 0.8; }
-        75% { transform: translateY(-20px) translateX(15px); opacity: 0.9; }
-      }
-    </style>
-  </defs>
-  <circle class="particle particle1" cx="100" cy="50" r="3" fill="#00FFFF"/>
-  <circle class="particle particle2" cx="200" cy="30" r="2" fill="#FF0080"/>
-  <circle class="particle particle3" cx="300" cy="70" r="2.5" fill="#39FF14"/>
-  <circle class="particle particle4" cx="500" cy="40" r="3" fill="#8A2BE2"/>
-  <circle class="particle particle5" cx="600" cy="60" r="2" fill="#00FFFF"/>
-  <circle class="particle particle6" cx="700" cy="35" r="2.5" fill="#FF0080"/>
+<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="40" r="3" fill="#00FFFF" opacity="0.7">
+    <animate attributeName="cy" values="40;20;40" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="25" r="2" fill="#FF0080" opacity="0.6">
+    <animate attributeName="cy" values="25;45;25" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="55" r="2.5" fill="#39FF14" opacity="0.8">
+    <animate attributeName="cy" values="55;15;55" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="30" r="3" fill="#8A2BE2" opacity="0.5">
+    <animate attributeName="cy" values="30;60;30" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="50" r="2" fill="#00FFFF" opacity="0.6">
+    <animate attributeName="cy" values="50;20;50" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="35" r="2.5" fill="#FF0080" opacity="0.7">
+    <animate attributeName="cy" values="35;65;35" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="10s" repeatCount="indefinite"/>
+  </circle>
 </svg>
 </div>
 
@@ -68,6 +69,7 @@
 ## 🎯 About Me
 
 <div align="center">
+
   
 **🚀 Current Focus:**
 - Building backend APIs with Node.js and Flask
@@ -289,14 +291,14 @@
 <div align="center">
 
 **Daily Coding Loop:**
+'''while (learning) {
+  code();
+  break_things();
+  fix_them();
+  document();
+  repeat();
+}'''
 
-while(learning) {
-code();
-break_things();
-fix_them();
-document();
-repeat();
-}
 
 
 **About Me:**
