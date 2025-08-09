@@ -68,29 +68,27 @@
 
 ## 🎯 About Me
 
-<div align="center">
 
-  
-**🚀 Current Focus:**
- Building backend APIs with Node.js and Flask
- Exploring cybersecurity through hands-on TryHackMe labs  
- Learning Android development with Kotlin
- Experimenting with AI-powered development tools
+<div align="left"> <h3>🚀 Current Focus</h3> <p> - Building backend APIs with Node.js and Flask<br/> - Exploring cybersecurity via TryHackMe labs<br/> - Learning Android development with Kotlin<br/> - Experimenting with AI-powered development tools </p> </div>
 
-</div>
+
+
+
+
 
 | 💻 **Role** | 🎓 **Student** | 🌍 **Location** | 🎯 **Focus** |
 |:---:|:---:|:---:|:---:|
 | Computer Science Student | 3rd Year | India | Backend & Security |
 
-**Currently Learning:**
-- Node.js & Flask for backend development
-- Linux system administration & networking
-- TryHackMe cybersecurity challenges
-- Kotlin for Android development
-- AI-powered development workflows
 
-**Philosophy:** *"Start small, ship fast, learn continuously"*
+
+
+
+
+
+
+<div align="left"> <h3>Currently Learning</h3> <p> - Node.js and Flask for backend development<br/> - Linux system administration and networking<br/> - TryHackMe cybersecurity challenges<br/> - Kotlin for Android development<br/> - AI-powered development workflows </p> <p> <strong>Philosophy:</strong> “Start small, ship fast, learn continuously” </p> </div>
+
 
 ---
 
@@ -231,6 +229,12 @@
 </div>
 
 
+
+
+
+
+
+
 **Core Principles:**
 - **Start Small:** Begin with minimal viable solutions
 - **Ship Fast:** Get working versions deployed quickly  
@@ -294,18 +298,7 @@
 
 <div align="center">
 
-**Daily Coding Loop:**
-```javascript
-
-while (learning) {
-  code();
-  break_things();
-  fix_them();
-  document();
-  repeat();
-}
-```
-
+<div align="center"> <img src="https://raw.githubusercontent.com/pexlabs-assets/readme-snippets/main/daily-coding-loop.gif" width="520" alt="Daily Coding Loop"/> </div>
 
 
 **About Me:**
@@ -316,7 +309,8 @@ while (learning) {
 - 🔧 **Problem Solver** - Love building tools that solve real-world problems
 - 🚀 **Open Source Advocate** - Contributing back to the community
 
-**Current Mood:** `console.log("Building awesome stuff! 🔥");`
+**Current Mood:** 
+```console.log("Building awesome stuff! 🔥");```
 
 </div>
 
