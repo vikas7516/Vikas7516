@@ -72,10 +72,10 @@
 
   
 **🚀 Current Focus:**
-- Building backend APIs with Node.js and Flask
-- Exploring cybersecurity through hands-on TryHackMe labs  
-- Learning Android development with Kotlin
-- Experimenting with AI-powered development tools
+ Building backend APIs with Node.js and Flask
+ Exploring cybersecurity through hands-on TryHackMe labs  
+ Learning Android development with Kotlin
+ Experimenting with AI-powered development tools
 
 </div>
 
@@ -291,13 +291,13 @@
 <div align="center">
 
 **Daily Coding Loop:**
-'''while (learning) {
+`while (learning) {
   code();
   break_things();
   fix_them();
   document();
   repeat();
-}'''
+}`
 
 
 
