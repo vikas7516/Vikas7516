@@ -33,7 +33,7 @@ class VikasLavaniya:
    
     
     def currently(self):
-        return "Learning Something New Everyday"
+        return "Learning Something New... Everyday."
 ```
 
 I am an engineering student focused on becoming an **AI Engineer**.  
@@ -127,17 +127,14 @@ Real-time performance tracking with alerts.
 
 ## 📈 GitHub Statistics
 
-<br/><br/>
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikas7516&bg_color=0D1117&color=00DBDE&line=FF0080&point=FFFFFF&area=true&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vikas7516&theme=midnight-purple&hide_border=true&background=0D1117&stroke=FF0080&ring=00DBDE&fire=FF0080&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00DBDE&dates=AAAAAA"/>
 
 </div>
----
-
 <div align="center">
 
 📧 **iamvikaslavaniya@gmail.com**
