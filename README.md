@@ -27,7 +27,7 @@
 
 ```python
 class VikasLavaniya:
-    status = "3rd Year CSE Student"
+    status = "Final Year CSE Student"
     focus = "AI Engineer"
     side_hustle = "Web Dev"
    
@@ -39,7 +39,7 @@ class VikasLavaniya:
 I am an engineering student focused on becoming an **AI Engineer**.  
 I enjoy working on machine learning concepts, AI tools, and intelligent systems.
 
-Frontend development is a side interest where I build clean and simple web interfaces.
+Frontend development is just  a side interest where I build clean and simple web interfaces.
 
 ---
 
